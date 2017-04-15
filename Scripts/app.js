@@ -1,6 +1,6 @@
 // File name: app.js 
 // Author's name: Jesse Cannon 
-// Web site name: http://jessecannon-miniportfolio.azurewebsites.net/index.html 
+// Web site name: http://project02-theportfolioproject-site-jessecannon.azurewebsites.net/index.html 
 // File description: main page JavaScript for my mini portfolio 
 
 // home page JavaScript 
